@@ -18,9 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vite,figma,git,github,windows,apple,vscode,discord,twitter)](https://skillicons.dev)
 
-![Sigma7863's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigma7863&count_private=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigma7863)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia)
 

@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Sigma7863!</h1>
+<h1>Hi 👋, I'm Sigma7863!</h1>
 
 **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

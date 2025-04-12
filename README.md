@@ -14,7 +14,7 @@
 ## Using FrameWorks
 [![My Skills](https://skillicons.dev/icons?i=react,next,astro)](https://skillicons.dev)
 
-## Using Tools and Device
+## Using Tools and Devices
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vite,figma,git,github,windows,apple,vscode,discord,twitter)](https://skillicons.dev)
 

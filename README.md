@@ -10,7 +10,7 @@
 
 <h2>Using Languages</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py">
 </a>
 
 <h2>Using FrameWorks</h2>

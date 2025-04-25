@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning TypeScript, Shell Script
 - 📫 How to reach me: X(Twitter)'s DM
 - 😄 Pronouns: Sigma
-- ⚡ Fun fact: I'm being lazy.
+- ⚡ Fun fact: I'm not good at CSS.
 
 <h2>Using Languages</h2>
 <a href="https://skillicons.dev">

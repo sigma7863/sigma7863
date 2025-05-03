@@ -15,12 +15,12 @@
 
 <h2>Using FrameWorks</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,next,astro">
+  <img src="https://skillicons.dev/icons?i=react,next,astro,tailwind">
 </a>
 
 <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma,git,github,windows,apple,vscode,discord,twitter">
+  <img src="https://skillicons.dev/icons?i=vite,figma,git,github,windows,apple,vscode,discord,twitter">
 </a>
 
 <h2>Github Stats</h2>

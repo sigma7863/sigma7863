@@ -2,7 +2,7 @@
 
 **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on WEBSite Creation, A little automation with ShellScript
+- 🔭 I’m currently working on WebSite Creation, Development with "Express"
 - 🌱 I’m currently learning TypeScript, Shell Script
 - 📫 How to reach me: X(Twitter)'s DM
 - 😄 Pronouns: Sigma

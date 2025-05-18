@@ -25,21 +25,23 @@
 
 <h2>Github Stats</h2>
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia&count_private=true">
 </p>
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigma7863&theme=algolia&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia&count_private=true">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigma7863&theme=algolia&utcOffset=8&count_private=true">
 </p>
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia&count_private=true">
 </p>
 
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sigma7863">
 </p>
+-->
 
 <h2>GitHub Trophies</h2>
 <p align="left">

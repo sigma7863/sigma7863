@@ -20,7 +20,7 @@
 
 <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=npm,vite,figma,git,github,powershell,windows,apple,vscode,gmail,discord,twitter">
+  <img src="https://skillicons.dev/icons?i=bun,vite,figma,git,github,powershell,windows,apple,vscode,gmail,discord,twitter">
 </a>
 
 <h2>Github Stats</h2>

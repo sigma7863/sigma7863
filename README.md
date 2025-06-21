@@ -2,9 +2,9 @@
 
 **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on WebSite Creation, Development with "Express"
-- 🌱 I’m currently learning TypeScript, Shell Script
-- 📫 How to reach me: X(Twitter)'s DM
+- 🔭 I’m currently working on learning new slills.
+- 🌱 I’m currently learning Three.js, Shell Script.
+- 📫 How to reach me: X(Twitter)'s DM.
 - 😄 Pronouns: Sigma
 - ⚡ Fun fact: I'm not good at CSS.
 
@@ -37,11 +37,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia&count_private=true">
 </p>
 
-<!--
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sigma7863">
-</p>
--->
+</p> -->
 
 <h2>GitHub Trophies</h2>
 <p align="left">

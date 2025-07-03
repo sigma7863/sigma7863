@@ -10,7 +10,7 @@
 
 <h2>Using Languages</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,md">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,md">
 </a>
 
 <h2>Using FrameWorks</h2>
@@ -20,7 +20,7 @@
 
 <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bun,vite,figma,git,github,powershell,windows,apple,vscode,gmail,discord,twitter">
+  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,git,github,powershell,windows,apple,vscode,gmail,discord,twitter">
 </a>
 
 <h2>Github Stats</h2>

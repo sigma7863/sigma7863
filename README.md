@@ -42,7 +42,7 @@
 </p> -->
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia">
 </p>
 
 <h2>GitHub Trophies</h2>

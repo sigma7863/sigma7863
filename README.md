@@ -41,6 +41,10 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sigma7863">
 </p> -->
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863">
+</p>
+
 <h2>GitHub Trophies</h2>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=onedark">

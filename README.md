@@ -20,7 +20,7 @@
 
 <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,git,github,powershell,windows,apple,vscode,gmail,discord,twitter">
+  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,github,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
 </a>
 
 <h2>Github Stats</h2>
@@ -46,6 +46,6 @@
 </p>
 
 <h2>GitHub Trophies</h2>
-<div align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">
-</div>
+</p>

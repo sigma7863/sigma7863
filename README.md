@@ -46,6 +46,6 @@
 </p>
 
 <h2>GitHub Trophies</h2>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">
 </p>

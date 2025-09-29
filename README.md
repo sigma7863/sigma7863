@@ -10,7 +10,7 @@
 
 <h2>Studying</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr">
+  <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae">
 </a>
 
 <h2>Using Languages</h2>

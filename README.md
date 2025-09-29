@@ -8,6 +8,11 @@
 - 😄 Pronouns: Sigma
 - ⚡ Fun fact: I'm not good at CSS.
 
+<h2>Studying</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr">
+</a>
+
 <h2>Using Languages</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,py,cs,md">

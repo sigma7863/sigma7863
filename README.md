@@ -34,8 +34,8 @@
 </p>
 
 <p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia&count_private=true">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia&count_private=true">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia&count_private=true"
 </p>
 
 <p align="left">

@@ -8,6 +8,10 @@
 - 😄 Pronouns: Sigma
 - ⚡ Fun fact: I'm not good at CSS.
 
+<a href="https://github.com/sigma7863">
+  <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863" />
+</a>
+
 <h2>Studying</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae">

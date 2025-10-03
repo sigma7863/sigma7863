@@ -1,8 +1,8 @@
+<h1>Hi 👋, I'm Sigma7863!</h1>
+
 <a href="https://github.com/sigma7863">
   <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863" />
 </a>
-
-<h1>Hi 👋, I'm Sigma7863!</h1>
 
 **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

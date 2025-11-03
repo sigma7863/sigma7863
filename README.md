@@ -13,12 +13,12 @@
 - ⚡ Fun fact: I'm not good at CSS.
 
 <h2>Studying</h2>
-<a href="https://skillicons.dev">
-  <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
-  <!-- <img src="https://skillicons.dev/icons?i=go"> -->
-</a>
+<!-- <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae">
+  <img src="https://skillicons.dev/icons?i=go">
+</a> -->
 
-<h2>Using Languages</h2>
+<!-- <h2>Using Languages</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,py,cs,md">
 </a>
@@ -26,7 +26,7 @@
 <h2>Using FrameWorks</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,next,astro,tailwind,express">
-</a>
+</a> -->
 
 <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">

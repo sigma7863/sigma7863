@@ -13,10 +13,11 @@
 - ⚡ Fun fact: I'm not good at CSS.
 
 <h2>Studying</h2>
-<!-- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae">
-  <img src="https://skillicons.dev/icons?i=go">
-</a> -->
+<a href="https://skillicons.dev">
+  <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=go"> -->
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure">
+</a>
 
 <!-- <h2>Using Languages</h2>
 <a href="https://skillicons.dev">

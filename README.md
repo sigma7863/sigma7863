@@ -57,6 +57,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia">
 </p>
 
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sigma7863&theme=react-dark&bg_color=0D1117&hide_border=true">
+</p>
+
 <h2>GitHub Trophies</h2>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">

@@ -17,7 +17,7 @@
 <a href="https://skillicons.dev">
   <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
   <!-- <img src="https://skillicons.dev/icons?i=go"> -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure">
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,gcp,azure">
 </a>
 
 <!-- <h2>Using Languages</h2>

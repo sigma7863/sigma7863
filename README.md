@@ -15,6 +15,7 @@
 
 <h2>Studying</h2>
 <a href="https://skillicons.dev">
+  <!-- <img src="https://skillicons.dev/icons?i=rust"> -->
   <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
   <!-- <img src="https://skillicons.dev/icons?i=go"> -->
   <!-- <img src="https://skillicons.dev/icons?i=aws,gcp,azure"> -->

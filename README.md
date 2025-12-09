@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Sigma7863!</h1>
 
 <a href="https://github.com/sigma7863">
-  <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863" />
+  <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863">
 </a>
 
 <!-- **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,11 @@
 - 📫 How to reach me: X(Twitter)'s DM.
 - 😄 Pronouns: Sigma
 - ⚡ Fun fact: I'm not good at CSS. -->
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+</p>
 
 <p align="left">
   <img src="https://github.com/sigma7863/sigma7863/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
@@ -60,14 +65,14 @@
 </p>
 
 <h2>Studying</h2>
-<a href="https://skillicons.dev">
+<p align="left">
   <!-- <img src="https://skillicons.dev/icons?i=rust"> -->
   <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
   <!-- <img src="https://skillicons.dev/icons?i=go"> -->
   <!-- <img src="https://skillicons.dev/icons?i=aws,gcp,azure"> -->
   <!-- <img src="https://skillicons.dev/icons?i=githubactions"> -->
   <img src="https://skillicons.dev/icons?i=kotlin,swift">
-</a>
+</p>
 
 <h2>GitHub Trophies</h2>
 <p align="left">

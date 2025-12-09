@@ -1,8 +1,7 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
-  schedule:
+  schedule: # 00:00 JST == 15:00 UTC
     - cron: "0 15 * * *" 
   
   # allows to manually run the job at any time

@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,github,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
 </a> -->
 
-<h2>Github Stats</h2>
+<!-- <h2>Github Stats</h2> -->
 <!-- <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia">
 </p> -->
@@ -59,11 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia">
 </p>
 
-<h2>GitHub Trophies</h2>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">
-</p>
-
 <h2>Studying</h2>
 <a href="https://skillicons.dev">
   <!-- <img src="https://skillicons.dev/icons?i=rust"> -->
@@ -73,3 +68,8 @@
   <!-- <img src="https://skillicons.dev/icons?i=githubactions"> -->
   <img src="https://skillicons.dev/icons?i=kotlin,swift">
 </a>
+
+<h2>GitHub Trophies</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">
+</p>

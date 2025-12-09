@@ -7,11 +7,11 @@
 
 **sigma7863/sigma7863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on learning new slills.
+<!-- 🔭 I’m currently working on learning new slills.
 - 🌱 I’m currently learning Android Studio, Kotlin, Xcode, Swift.
 - 📫 How to reach me: X(Twitter)'s DM.
 - 😄 Pronouns: Sigma
-- ⚡ Fun fact: I'm not good at CSS.
+- ⚡ Fun fact: I'm not good at CSS. -->
 
 <h2>Studying</h2>
 <a href="https://skillicons.dev">

@@ -61,7 +61,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia" alt="README-Streak-Stats">
 </p>
 
 <h2>Studying</h2>
@@ -76,5 +76,5 @@
 
 <h2>GitHub Trophies</h2>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia">
+  <img src="https://github-profile-trophy.vercel.app/?username=sigma7863&theme=algolia" alt="GitHub Trophies">
 </p>

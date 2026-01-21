@@ -71,7 +71,8 @@
   <!-- <img src="https://skillicons.dev/icons?i=go"> -->
   <!-- <img src="https://skillicons.dev/icons?i=aws,gcp,azure"> -->
   <!-- <img src="https://skillicons.dev/icons?i=githubactions"> -->
-  <img src="https://skillicons.dev/icons?i=swift,kotlin">
+  <!-- <img src="https://skillicons.dev/icons?i=swift,kotlin"> -->
+  <img src="https://skillicons.dev/icons?i=mondodb,nix">
 </p>
 
 <h2>GitHub Trophies</h2>

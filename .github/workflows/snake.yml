@@ -3,19 +3,20 @@ name: generate animation
 on:
   schedule: # 00:00 JST == 15:00 UTC
     - cron: "0 15 * * *" 
-  
+
   # allows to manually run the job at any time
   workflow_dispatch:
-  
+
   # run on every push on the master branch
   push:
     branches:
     - main
 
+permissions: 
+  contents: write
+
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     

@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I'm not good at CSS. -->
 
 <p align="left">
-  ![gitartwork]
+  <img src="https://github.com/sigma7863/sigma7863/blob/main/gitartwork.svg">
 </p>
 
 <p align="left">

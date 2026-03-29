@@ -14,6 +14,10 @@
 - ⚡ Fun fact: I'm not good at CSS. -->
 
 <p align="left">
+  ![gitartwork]
+</p>
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-contribution-grid-snake.svg#gh-light-mode-only">
 </p>

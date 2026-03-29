@@ -58,9 +58,9 @@
 </div>
 
 <div align="center">
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia">
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia">
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia">
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia">
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia">
+  <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia">
 </div>
 
 <p align="left">
@@ -83,16 +83,12 @@
 
 <!-- <h2>GitHub Trophies</h2> -->
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sigma7863&langs_count=4&theme=algolia">
-</p>
-
-<p align="center">
   <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-  <img width="28%" src="https://readme-jokes.vercel.app/api">
+  <img width="30%" src="https://readme-jokes.vercel.app/api">
   <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 </p>
 
-<!-- <p align="left">
-  <img src="https://ghchart.rshah.org/sigma7863" alt="Github Chart API">
-</p> -->
+<p align="left">
+  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia">
+  <!-- <img src="https://ghchart.rshah.org/sigma7863"> -->
+</p>

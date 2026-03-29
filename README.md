@@ -1,5 +1,9 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-<h1>Hi 👋, I'm Sigma7863!</h1>
+<!-- <h1>Hi 👋, I'm Sigma7863!</h1> -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sigma7863!">
+</p>
 
 <a href="https://github.com/sigma7863">
   <img height="20" src="https://komarev.com/ghpvc/?username=sigma7863">
@@ -42,34 +46,31 @@
 </a> -->
 
 <!-- <h2>Github Stats</h2> -->
-<!-- <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia">
-</p> -->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=sigma7863&show_icons=true&theme=algolia">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia">
+</div>
 
-<!-- <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia">
-</p> -->
+<div align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigma7863&theme=algolia">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigma7863&theme=algolia&utcOffset=8">
+  <!-- <img width="26%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sigma7863&langs_count=4&theme=algolia"> -->
+</div>
 
-<!-- <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigma7863&theme=algolia&utcOffset=8">
-</p> -->
-
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sigma7863">
-</p> -->
+<div align="center">
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigma7863&theme=algolia">
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigma7863&theme=algolia">
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigma7863&theme=algolia">
+</div>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sigma7863&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sigma7863&theme=algolia" alt="README-Streak-Stats">
-</p>
 
-<h2>Studying</h2>
-<p align="left">
+
+<!-- <h2>Studying</h2> -->
+<!-- <p align="left"> -->
   <!-- <img src="https://skillicons.dev/icons?i=rust"> -->
   <!-- <img src="https://skillicons.dev/icons?i=blender,ai,photoshop,pr,ae"> -->
   <!-- <img src="https://skillicons.dev/icons?i=go"> -->
@@ -77,10 +78,21 @@
   <!-- <img src="https://skillicons.dev/icons?i=githubactions"> -->
   <!-- <img src="https://skillicons.dev/icons?i=swift,kotlin"> -->
   <!-- <img src="https://skillicons.dev/icons?i=mongodb,nix"> -->
-    <!-- <img src="https://skillicons.dev/icons?i=mongodb"> -->
+  <!-- <img src="https://skillicons.dev/icons?i=mongodb"> -->
+<!-- </p> -->
+
+<!-- <h2>GitHub Trophies</h2> -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sigma7863&langs_count=4&theme=algolia">
 </p>
 
-<h2>GitHub Trophies</h2>
-<p align="left">
-  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia" alt="GitHub Trophies">
+<p align="center">
+  <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img width="30%" src="https://readme-jokes.vercel.app/api">
+  <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 </p>
+
+<!-- <p align="left">
+  <img src="https://ghchart.rshah.org/sigma7863" alt="Github Chart API">
+</p> -->

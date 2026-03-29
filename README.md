@@ -30,6 +30,10 @@
   <img src="https://github.com/sigma7863/sigma7863/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
+<p align="left">
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/sigma7863?theme=dark&streak=true">
+</p>
+
 <!-- <h2>Using Languages</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,py,cs,md">
@@ -67,8 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sigma7863&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>
 
-
-
 <!-- <h2>Studying</h2> -->
 <!-- <p align="left"> -->
   <!-- <img src="https://skillicons.dev/icons?i=rust"> -->
@@ -82,13 +84,13 @@
 <!-- </p> -->
 
 <!-- <h2>GitHub Trophies</h2> -->
+<p align="left">
+  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia">
+  <!-- <img src="https://ghchart.rshah.org/sigma7863"> -->
+</p>
+
 <p align="center">
   <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
   <img width="30%" src="https://readme-jokes.vercel.app/api">
   <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
-</p>
-
-<p align="left">
-  <img src="https://github-trophies.vercel.app/?username=sigma7863&theme=algolia">
-  <!-- <img src="https://ghchart.rshah.org/sigma7863"> -->
 </p>

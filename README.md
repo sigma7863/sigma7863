@@ -89,7 +89,7 @@
 
 <p align="center">
   <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-  <img width="30%" src="https://readme-jokes.vercel.app/api">
+  <img width="28%" src="https://readme-jokes.vercel.app/api">
   <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 </p>
 

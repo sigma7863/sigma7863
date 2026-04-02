@@ -31,9 +31,9 @@
   <img src="https://github.com/sigma7863/sigma7863/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
-<p align="left">
-  <img src="https://github-stats-eta-two.vercel.app/api/stats/sigma7863?theme=dark&streak=true">
-</p>
+<!-- <p align="left">
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/sigma7863?theme=blue&streak=true">
+</p> -->
 
 <!-- <h2>Using Languages</h2>
 <a href="https://skillicons.dev">

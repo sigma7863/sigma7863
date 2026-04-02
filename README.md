@@ -22,9 +22,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/github-snake.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="left">

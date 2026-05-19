@@ -12,12 +12,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    env:
+      NODE_OPTIONS: --max-old-space-size=8192
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: generate pacman
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_path: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
 
       - name: push pacman
         uses: crazy-max/ghaction-github-pages@v3.1.0

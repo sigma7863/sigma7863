@@ -22,9 +22,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sigma7863/sigma7863/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigma7863/sigma7863/output-pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sigma7863/sigma7863/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
 <p align="left">
@@ -47,7 +47,7 @@
 
 <!-- <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,github,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
+  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,githubactions,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
 </a> -->
 
 <!-- <h2>Github Stats</h2> -->

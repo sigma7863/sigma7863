@@ -47,7 +47,7 @@
 
 <!-- <h2>Using Tools and Devices</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,githubactions,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
+  <img src="https://skillicons.dev/icons?i=bun,vite,figma,unity,docker,git,github,powershell,bash,windows,apple,raspberrypi,vscode,gmail,discord,twitter&perline=8">
 </a> -->
 
 <!-- <h2>Github Stats</h2> -->
